@@ -1,5 +1,7 @@
 # pokedex
 
+##ポケモン図鑑（Vue.js)
+
 ## Project setup
 ```
 npm install

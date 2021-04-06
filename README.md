@@ -1,6 +1,6 @@
 # pokedex
 
-##ポケモン図鑑（Vue.js)
+## ポケモン図鑑（Vue.js)
 
 ## Project setup
 ```
